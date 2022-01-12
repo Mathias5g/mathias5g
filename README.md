@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Leandro, i'm dev fullstack.
+
+- 🔭 I’m currently working on Laravel
+- 📫 How to reach me: mathias5g@hotmail.com
 <!--
 **Mathias5g/mathias5g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
